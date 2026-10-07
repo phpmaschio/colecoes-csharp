@@ -1,0 +1,14 @@
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/bin/Debug/net10.0/IntroducaoColecoes
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/bin/Debug/net10.0/IntroducaoColecoes.deps.json
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/bin/Debug/net10.0/IntroducaoColecoes.runtimeconfig.json
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/bin/Debug/net10.0/IntroducaoColecoes.dll
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/bin/Debug/net10.0/IntroducaoColecoes.pdb
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.AssemblyInfoInputs.cache
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.AssemblyInfo.cs
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.csproj.CoreCompileInputs.cache
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.dll
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/refint/IntroducaoColecoes.dll
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.pdb
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/IntroducaoColecoes.genruntimeconfig.cache
+/home/pedro/EstacaoDeTrabalho/Projetos/colecoes-csharp/IntroducaoColecoes/obj/Debug/net10.0/ref/IntroducaoColecoes.dll
